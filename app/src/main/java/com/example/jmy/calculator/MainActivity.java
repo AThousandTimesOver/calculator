@@ -10,7 +10,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected int status = 0;
     protected char oppstatus;
-    protected Float v1;
+    protected Float v2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
